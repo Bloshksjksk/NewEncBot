@@ -34,7 +34,7 @@ Send me the correct ffmpeg code for more info.
 
 <code> -c:v libx264 -crf 23 </code> Tʜɪs ɪs ʏᴏᴜʀ ғғᴍᴘᴇɢ ᴄᴏᴅᴇ ✅
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Its_Abdullaah
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @fligher
 """
 
     SEND_METADATA ="""
@@ -42,9 +42,9 @@ Send me the correct ffmpeg code for more info.
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="My Video" -metadata author="John Doe" -metadata:s:s title="Subtitle Title" -metadata:s:a title="Audio Title" -metadata:s:v title="Video Title" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="My Video" -metadata author="@fligher" -metadata:s:s title="Subtitle Title" -metadata:s:a title="Audio Title" -metadata:s:v title="Video Title" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Snowball_Official
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @trumbotchat
 """
 
     
@@ -62,13 +62,13 @@ Available commands:-
 ➜ To Set Thumbnail just send photo
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/Its_Abdullaah>Don't Click 😁</a>
+<b>⦿ Developer:</b> <a href=https://t.me/fligher>Don't Click 😁</a>
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : @{}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Its_Abdullaah>Not Me 😶</a>
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/TeamMayhem>Mayhem™</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/fligher>Not Me 😶</a>
+├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/movie_time_botonly>TRUMBOTS™</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
