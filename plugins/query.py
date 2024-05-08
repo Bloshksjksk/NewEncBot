@@ -26,8 +26,8 @@ async def Cb_Handle(bot: Client, query: CallbackQuery):
         btn = [
             [InlineKeyboardButton(text='❗ Hᴇʟᴘ', callback_data='help'), InlineKeyboardButton(
                 text='🌨️ Aʙᴏᴜᴛ', callback_data='about')],
-            [InlineKeyboardButton(text='📢 Uᴘᴅᴀᴛᴇs', url='https://t.me/Mayhem_Bots'), InlineKeyboardButton
-                (text='💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Its_Abdullaah')]
+            [InlineKeyboardButton(text='📢 Uᴘᴅᴀᴛᴇs', url='https://t.me/movie_time_botonly'), InlineKeyboardButton
+                (text='💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/fligher')]
         ]
         await query.message.edit(text=Txt.PRIVATE_START_MSG.format(query.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
 
